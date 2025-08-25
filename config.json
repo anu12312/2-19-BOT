@@ -7,21 +7,21 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "anuinside143@hotmail.com",
+    "PASSWORD": "6394812128@1999",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "❤️ERIICA💠",
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "61578840237242",
+        "61578840237242"
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "appstate.json",
+    "APPSTATEPATH": "Fbstate.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
